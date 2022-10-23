@@ -1,0 +1,1 @@
+intent is an object for performing another activity, it can be another activity , opening service or anything ese
